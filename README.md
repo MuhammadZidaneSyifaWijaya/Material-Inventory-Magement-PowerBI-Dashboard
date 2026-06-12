@@ -24,7 +24,7 @@ This project involved architecting and deploying an end-to-end analytics solutio
 ### 🖼️ Core Screenshots
 *Below are the key interfaces of the 8-page specialized layout (stored inside the `/Screenshoots` folder):*
 
-!Screenshoots/Dashboard Material Inventory Management.jpeg
+![MIM Dashboard Main Page](Screenshots/Dashboard Material Inventory Management.jpeg)
 ![Material Chart Analysis](Screenshoots/Material Chart.jpeg)
 ![New Purchase Material Tracking](Screenshoots/New Purchase Material.jpeg)
 ![Ex-Termination Material Analytics](Screenshoots/Ex Termination Material.jpeg)
