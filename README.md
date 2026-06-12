@@ -1,1 +1,45 @@
+# 📊 Material Inventory Management (MIM) Dashboard — PT Pertamina Hulu Indonesia
 
+## 🏢 Context & Organization
+Developed during a Post-graduate Internship under **IT Supply Chain Management (Material Inventory Management)** at PT Pertamina Hulu Energi (PHE), placed at **PT Pertamina Hulu Indonesia (South Jakarta, Indonesia)**.
+
+## 📌 Project Overview
+This project involved architecting and deploying an end-to-end analytics solution centered around an **8-page Material Inventory Management (MIM) Dashboard** in Power BI. The core objective was to break down information silos by consolidating complex material tracking data from **3 operating subsidiaries** into a single executive monitoring tool, effectively transforming manual tracking into a structured operational workflow[cite: 1].
+
+## 📈 Business Impact & Quantifiable Results
+- **Owned and developed the Material Inventory Management (MIM) Dashboard** using **Power BI**: consolidated material inventory data from **3 operating systems / subsidiaries (PHM, PHSS, PHKT)** into a **unified executive monitoring tool**[cite: 1]. Stakeholders recognized the dashboard as a **significant improvement to workflow visibility**, enabling **faster inventory decisions** and **reducing manual data consolidation time**[cite: 1]. It was formally **adopted by the SCM Logistics Manager and 11 MIM team members** as the primary operational oversight tool[cite: 1].
+- **Engineered an Excel Macro pipeline** to automatically aggregate **20 raw SAP-extracted Excel files**—encompassing New Material Purchases, Ex-Terminated Contract Materials (Leftover Materials), 9-year stock evolution trends, Oil Country Tubular Goods (OCTG) material statuses, and Cost Recovery vs. Gross Split fiscal frameworks—successfully **replacing a weekly manual reporting process**[cite: 1].
+- **Managed end-to-end material fulfillment workflows** spanning **Material Requirement Planning, Procurement, and Inventory Management** across multiple operational zones (**Wilayah Kerja**) in Kalimantan, ensuring strict compliance with **Indonesian Oil and Gas Regulations (PTK 007, A7001)** under **SKK Migas** guidelines[cite: 1].
+- **Reviewed and validated 10+ Material Requirement Plans (RKM) and Purchase Plans (RPM)**, cross-referencing active work programs with the **Pertamina Material Identification Code (KIMAP)**, successfully surfacing and correcting **15 discrepancies** in coordination with the MIM Assistant Manager before reaching the procurement stage[cite: 1].
+- **Drafted and processed 15+ Purchase Requisitions (PR) and Purchase Orders (PO)** through **SAP ERP**, successfully supporting and ensuring zero supply chain disruptions for **operational fuel (BBM) fulfillment** across the PHM, PHSS, and PHKT zones[cite: 1].
+
+## 🛠️ Tech Stack & Skills Applied
+- **BI Platform:** Power BI Desktop (8-page specialized executive layout, DAX optimization, data modeling)[cite: 1]
+- **Data Engineering:** Excel Macros (VBA Data Aggregation Pipeline), Power Query[cite: 1]
+- **Enterprise System:** SAP ERP (Data Extraction & Logistics Tracking)[cite: 1]
+- **Domain Compliance:** Upstream Oil and Gas Regulations (**PTK 007 & A7001 guidelines**, KIMAP classification codes)[cite: 1]
+
+## 📸 Dashboard Interface & Video Demonstration
+
+### 🖼️ Core Screenshots
+*Below is the key interface of the developed Power BI dashboard layout (stored inside the `/Screenshots` folder):*
+
+![Main Executive Page](Screenshots/Dashboard Material Inventory Management.jpeg)
+![Main Executive Page](Screenshots/Material Chart.jpeg)
+![Main Executive Page](Screenshots/New Purchase Material.jpeg)
+![Main Executive Page](Screenshots/Ex Termination Material.jpeg)
+![Main Executive Page](Screenshots/FUPP Status.jpeg)
+![Main Executive Page](Screenshots/Stock Evolution.jpeg)
+![Main Executive Page](Screenshots/OCTG Coverage PHM.jpeg)
+![Main Executive Page](Screenshots/OCTG Coverage PHSS.jpeg
+
+### 🎥 Live Walkthrough Video
+*Watch the interactive video demonstration showing real-time cross-filtering, multi-page navigation, and pipeline monitoring features (stored inside the `/Demo` folder):*
+
+<video src="Demo/demo_video.mp4" controls="controls" style="max-width: 100%; display: block;"></video>
+
+---
+*Note: If the video player above does not render properly in your browser, you can directly access or download the file here: [Download/Watch Demo Video](Demo/demo_video.mp4)*
+
+---
+*Disclaimer: All raw operational data fields, exact financial values, asset tracking numbers, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
