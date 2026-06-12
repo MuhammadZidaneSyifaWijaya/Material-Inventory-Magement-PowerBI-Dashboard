@@ -22,16 +22,16 @@ This project involved architecting and deploying an end-to-end analytics solutio
 ## 📸 Dashboard Interface & Video Demonstration
 
 ### 🖼️ Core Screenshots
-*Below are the key interfaces of the 8-page specialized layout (stored inside the `/Screenshoots` folder):*
+*Below are the key interfaces of the 8-page specialized layout (stored inside the `/Screenshots` folder):*
 
-![MIM Dashboard Main Page](Screenshots/Dashboard Material Inventory Management.jpeg)
-![Material Chart Analysis](Screenshoots/Material Chart.jpeg)
-![New Purchase Material Tracking](Screenshoots/New Purchase Material.jpeg)
-![Ex-Termination Material Analytics](Screenshoots/Ex Termination Material.jpeg)
-![FUPP Status Overview](Screenshoots/FUPP Status.jpeg)
-![9-Year Stock Evolution Trends](Screenshoots/Stock Evolution.jpeg)
-![OCTG Coverage PHM Zone](Screenshoots/OCTG Coverage PHM.jpeg)
-![OCTG Coverage PHSS Zone](Screenshoots/OCTG Coverage PHSS.jpeg)
+![MIM Dashboard Main Page](Screenshots/Dashboard%20Material%20Inventory%20Management.jpeg)
+![Material Chart Analysis](Screenshots/Material%20Chart.jpeg)
+![New Purchase Material Tracking](Screenshots/New%20Purchase%20Material.jpeg)
+![Ex-Termination Material Analytics](Screenshots/Ex%20Termination%20Material.jpeg)
+![FUPP Status Overview](Screenshots/FUPP%20Status.jpeg)
+![9-Year Stock Evolution Trends](Screenshots/Stock%20Evolution.jpeg)
+![OCTG Coverage PHM Zone](Screenshots/OCTG%20Coverage%20PHM.jpeg)
+![OCTG Coverage PHSS Zone](Screenshots/OCTG%20Coverage%20PHSS.jpeg)
 
 ### 🎥 Live Walkthrough Video
 *Watch the interactive video demonstration showing real-time cross-filtering, multi-page navigation, and pipeline monitoring features (stored inside the `/Demo` folder):*
