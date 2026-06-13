@@ -39,6 +39,6 @@ This project involved architecting and deploying an end-to-end analytics solutio
 <video src="Demo/Dashboard%MIM%Demo.mp4" controls="controls" style="max-width: 100%; display: block;"></video>
 
 ---
-🎥 **[Klik di sini untuk menonton Video Demo Interaktif Dashboard (via Google Drive)](https://drive.google.com/file/d/1JFgVuxij3B-gYaFlAndmKE8yU6jepXsb/view?usp=sharing)**
+🎥 **[Klik di sini untuk menonton Video Demo Interaktif Dashboard (via Google Drive)](https://drive.google.com/file/d/1ZGgBTJ9IlV21T_hGOj_ilnMnq7Tsd-wk/view?usp=sharing)**
 ---
 *Disclaimer: All raw operational data fields, exact financial values, asset tracking numbers, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
