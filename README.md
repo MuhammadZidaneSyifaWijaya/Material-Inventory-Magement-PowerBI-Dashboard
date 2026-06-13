@@ -36,10 +36,10 @@ This project involved architecting and deploying an end-to-end analytics solutio
 ### 🎥 Live Walkthrough Video
 *Watch the interactive video demonstration showing real-time cross-filtering, multi-page navigation, and pipeline monitoring features (stored inside the `/Demo` folder):*
 
-<video src="Demo/demo_video.mp4" controls="controls" style="max-width: 100%; display: block;"></video>
+<video src="Demo/Dashboard MIM Demo.mp4" controls="controls" style="max-width: 100%; display: block;"></video>
 
 ---
-*Note: If the video player above does not render properly in your browser, you can directly access or download the file here: [Download/Watch Demo Video](Demo/demo_video.mp4)*
+*Note: If the video player above does not render properly in your browser, you can directly access or download the file here: [Download/Watch Demo Video](Demo/Dashboard MIM Demo.mp4)*
 
 ---
 *Disclaimer: All raw operational data fields, exact financial values, asset tracking numbers, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
