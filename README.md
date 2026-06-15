@@ -3,6 +3,8 @@
 ## 🏢 Context & Organization
 Developed during a Post-graduate Internship under **IT Supply Chain Management (Material Inventory Management)** at PT Pertamina Hulu Energi (PHE), placed at **PT Pertamina Hulu Indonesia (South Jakarta, Indonesia)**.
 
+*Disclaimer: All raw operational data fields, exact financial values, asset tracking numbers, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
+
 ## 📌 Project Overview
 This project involved architecting and deploying an end-to-end analytics solution centered around an **8-page Material Inventory Management (MIM) Dashboard** in Power BI. The core objective was to break down information silos by consolidating complex material tracking data from **3 operating subsidiaries** into a single executive monitoring tool, effectively transforming manual tracking into a structured operational workflow.
 
@@ -41,4 +43,3 @@ This project involved architecting and deploying an end-to-end analytics solutio
 ---
 🎥 **[Klik di sini untuk menonton Video Demo Interaktif Dashboard (via Google Drive)](https://drive.google.com/file/d/1ZGgBTJ9IlV21T_hGOj_ilnMnq7Tsd-wk/view?usp=sharing)**
 ---
-*Disclaimer: All raw operational data fields, exact financial values, asset tracking numbers, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
